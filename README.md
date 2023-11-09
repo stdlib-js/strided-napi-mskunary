@@ -312,7 +312,7 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/array/uint8]: https://github.com/stdlib-js/array-uint8
 
-[@stdlib/strided/dtypes]: https://github.com/stdlib-js/stdlib
+[@stdlib/strided/dtypes]: https://github.com/stdlib-js/strided-dtypes
 
 </section>
 
